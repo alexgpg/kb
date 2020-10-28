@@ -6,11 +6,10 @@ Cheatsheets, tips, useful links, etc.
 
 ## Table of contents
 
-TODO
+- [gdb - GNU Debugger](gdb.md)
 
 ## TODO
 
-- gdb
 - git
 - ssh
 - bash
