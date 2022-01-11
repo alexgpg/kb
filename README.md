@@ -7,6 +7,7 @@ Cheatsheets, tips, useful links, etc.
 ## Table of contents
 
 - [apt - Debian/Ubuntu/etc package management](apt.md)
+- [Bash](bash.md)
 - [Git - distributed version control system](git.md)
 - [gdb - GNU Debugger](gdb.md)
 - [Vim - Vim text editor](vim.md)
@@ -14,6 +15,5 @@ Cheatsheets, tips, useful links, etc.
 ## TODO
 
 - ssh
-- bash
 - makefile
 
